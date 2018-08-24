@@ -1,0 +1,23 @@
+{
+  "name": "notas-api",
+  "version": "1.0.0",
+  "description": "Api para app de notas(Proyecto open-source). En colaboración con Victor Gonzalez(victor.gonzalez.ollervidez@gmai.com) y yo Fredy Monroy(fredydeltoro@gmail.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredydeltoro/notas-api.git"
+  },
+  "author": "Alfredo Monroy (fredydeltoro@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredydeltoro/notas-api/issues"
+  },
+  "homepage": "https://github.com/fredydeltoro/notas-api#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "rethinkdb": "^2.3.3"
+  }
+}
