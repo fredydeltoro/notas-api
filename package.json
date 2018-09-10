@@ -1,7 +1,7 @@
 {
-  "name": "myapp2",
+  "name": "notas-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api para app de notas(Proyecto open-source). En colaboración con Victor Gonzalez(victor.gonzalez.ollervidez@gmai.com) y yo Fredy Monroy(fredydeltoro@gmail.com)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
